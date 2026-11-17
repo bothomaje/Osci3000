@@ -1,0 +1,34 @@
+# Projucer generated folders
+Builds/
+JuceLibraryCode/
+
+# CMake build directories (if migrating or hybrid)
+build/
+cmake-build-*/
+CMakeUserPresets.json
+
+# Xcode user data
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+xcuserdata/
+DerivedData/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+x64/
+x86/
+Debug/
+Release/
+
+# JetBrains / CLion / VS Code
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
